@@ -1,0 +1,5 @@
+{
+  "name": "SwipeSwap",
+  "description": "A Tinder-style item swapping application where users trade items they own. Features intelligent matching, inventory management, and AI-powered negotiation assistance.",
+  "requestFramePermissions": []
+}
